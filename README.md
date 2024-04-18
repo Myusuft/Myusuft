@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Myusuft
-- 👀 I’m interested in UIUX and Front-end Development
+- 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on projects
 - 📫 reach me out
